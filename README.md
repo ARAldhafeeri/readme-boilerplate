@@ -1,5 +1,8 @@
 # readme-boilerplate
 Here you find organized README.MD boilerplate with most of the markup language syntax, also some tools to help you to be a documentation master. As front-end and documentation are time consuming but they are as curtail and valuable as fully functional app or a backend because they consider the users and by users I mean both (clients and developers who are working on the team ) 
+## Very helpful github for markup and readme.md files:
+> https://github.com/matiassingers/awesome-readme
+
 <a href="https://github.com/ARAldhafeeri/">
   <img align="right" width="100" height="100" alt="Official Javascript Component" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png">
 </a>
