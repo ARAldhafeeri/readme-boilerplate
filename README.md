@@ -23,7 +23,7 @@ Here you find organized README.MD boilerplate with most of the markup language s
 - [Examples](#examples)
   * [Example with code javascript](#example-with-code-javascript)
   * [Example with code Python](#example-with-code-python)
-  * [Badges](#badges)
+  * [Badges](#get-github-repo-package-badge)
   * [Color](#color)
     + [sub section](#sub-section-1) 
     + [sub section](#sub-section-2)
