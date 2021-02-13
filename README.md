@@ -94,7 +94,6 @@ Here is an introduction & some code example on how to use the package.
 ```javascript
 import {CardElement, Elements, ElementsConsumer} from '@stripe/react-stripe-js';
 import {loadStripe} from '@stripe/stripe-js';
-import {Link, withRouter} from 'react-router-dom';
 import React, {Component} from 'react';
 import CheckoutForm from "../Components/CheckoutForm
 
