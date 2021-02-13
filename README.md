@@ -6,8 +6,11 @@ Here you find organized README.MD boilerplate with most of the markup language s
 <a href="https://github.com/ARAldhafeeri/">
   <img align="right" width="100" height="100" alt="Official Javascript Component" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png">
 </a>
+
 # boilerplate
-![](https://img.shields.io/github/license/ARAldhafeeri/readme-boilerplate.png)
+
+![packge-name](https://img.shields.io/github/license/ARAldhafeeri/readme-boilerplate.png)
+
 > sentance descripte the package.
 
 <!-- page index example -->
